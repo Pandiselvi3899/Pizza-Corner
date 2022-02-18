@@ -1,1 +1,0 @@
-web: node mern-pizza/server.js
